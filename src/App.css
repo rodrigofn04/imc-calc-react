@@ -1,0 +1,7 @@
+#calc-container{
+    min-height: 400px;
+    min-width: 400px;
+    background-color: #242424;
+    padding: 2rem;
+    border-radius: 5px;
+}
